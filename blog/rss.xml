@@ -9,10 +9,10 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <link>https://azianmike.github.io/blog/Hello World!</link>
+            <link>https://azianmike.github.io/blog/2021/11/06/hola</link>
             <guid>Hello World!</guid>
             <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello world! More to come soon on our blog.]]></description>
+            <description><![CDATA[We're excited to be sharing Winter's API with the world! More to come soon.]]></description>
         </item>
     </channel>
 </rss>
