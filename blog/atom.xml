@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://azianmike.github.io/blog</id>
+    <title>Winter API Docs Blog</title>
+    <updated>2021-11-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://azianmike.github.io/blog"/>
+    <subtitle>Winter API Docs Blog</subtitle>
+    <icon>https://azianmike.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World!]]></title>
+        <id>Hello World!</id>
+        <link href="https://azianmike.github.io/blog/Hello World!"/>
+        <updated>2021-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello world! More to come soon on our blog.]]></summary>
+    </entry>
+</feed>

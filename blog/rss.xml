@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Winter API Docs Blog</title>
+        <link>https://azianmike.github.io/blog</link>
+        <description>Winter API Docs Blog</description>
+        <lastBuildDate>Sat, 06 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <link>https://azianmike.github.io/blog/Hello World!</link>
+            <guid>Hello World!</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world! More to come soon on our blog.]]></description>
+        </item>
+    </channel>
+</rss>
