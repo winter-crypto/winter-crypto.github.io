@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://azianmike.github.io/blog"/>
     <subtitle>Winter API Docs Blog</subtitle>
-    <icon>https://azianmike.github.io/img/use_winter_inner_white_logo.png.png</icon>
+    <icon>https://azianmike.github.io/img/use_winter_inner_white_logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>Hello World!</id>

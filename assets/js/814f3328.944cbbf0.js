@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuse_winter_final=self.webpackChunkuse_winter_final||[]).push([[535],{6353:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/blog/2021/11/06/hola"}]}')}}]);
